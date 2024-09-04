@@ -1,0 +1,6 @@
+<! -- 2-->
+    <li class="list_item">
+        <div class="list_button">
+            <img src="assets/stats.svg" class="list_img">
+            <a href="#" class="nav_link">estadisticas</a>   
+        </div>
